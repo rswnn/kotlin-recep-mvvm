@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kotlinmvvm</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recipe">RecipeActivity</string>
+    <string name="action_delete">Hapus</string>
+    <string name="signout">signout</string>
+    <string name="Signout">Signout</string>
+    <string name="mvvm">Crud</string>
+    <string name="Todo">TodoActivity</string>
+    <string name="title_activity_coba">Coba</string>
+</resources>
